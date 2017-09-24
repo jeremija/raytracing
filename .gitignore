@@ -36,3 +36,4 @@ install_manifest.txt
 *.app
 
 compile_commands.json
+src/raytracer
